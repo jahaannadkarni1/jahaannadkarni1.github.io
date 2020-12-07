@@ -1,0 +1,140 @@
+.lower-body {
+    padding-top: 80px;
+}
+.body {
+    display: flex;
+}
+
+.home-page-intro {
+    height: 500px;
+    display: flex;
+    
+}
+
+.home-page-intro > div {
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+
+.div {
+    display: block;
+
+}
+
+.img-pic {
+        max-width: 80%;
+        height: auto;
+        padding-top: 30px;
+}
+.pic-resume {
+    text-align: center;
+}
+
+
+.butt {
+    position: relative;
+    top: 10px;
+}
+.about-info {
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+}
+.about-info-head {
+    text-align: left;
+}
+
+.about-info-body {
+    text-align: justify;
+}
+
+.projects-done {
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+}
+.projects-head {
+    text-align: left;
+}
+.project-body {
+    text-align: justify;
+}
+
+.education-info {
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+}
+
+.education-header {
+    text-align: left;
+}
+.education-info-body-links {
+    text-align: left;
+}
+
+.work-info {
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+}
+
+.work-info-header {
+    text-align: left;
+}
+
+.work-info-body-head {
+    text-align: left;
+}
+
+.work-body {
+    text-align: justify;
+}
+
+.certi {
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+}
+
+.hr-tag {
+    position: relative;
+    top: 100px;
+    padding-top: 80px;
+}
+
+.contact-info {
+    position: relative;
+    left: 100px;
+    padding-top: 80px;
+    height: 400px;
+
+}
+
+.contact-info-body-tabs > i {
+    padding-right: 20px;
+}
+
+.contact-info-body-tabs > a:hover {
+    text-decoration: none;
+}
+
+
+
+@media (min-width: 992px) {
+
+    .name-tag {
+        position: relative;
+        top: 180px;
+    }
+        
+    .img-pic {
+        max-width: 100%;
+        height: auto;
+    }
+   
+
+}
+
